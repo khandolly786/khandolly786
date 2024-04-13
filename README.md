@@ -1,8 +1,8 @@
 - 👋 Hi, I’m DARAKHSHAN NAHEED
 - 👀 I’m interested in Web Development, AI using python
 - 🌱 I’m currently learning AI/ML and DATA SCIENCE
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 Reach to me : khandolly378@gmail.com
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: ...
 
 <!---
