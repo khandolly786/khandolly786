@@ -33,4 +33,7 @@ HELLO!! THIS IS ME 👋![MasterHead](https://user-images.githubusercontent.com/7
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khandolly786&show_icons=true&locale=en" alt="khandolly786" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khandolly786&" alt="khandolly786" /></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khandolly786" alt="GitHub Streak Stats for khandolly786">
+</p>
+
